@@ -1,6 +1,6 @@
 # Brick Kiln Classifier
 
-We can not upload the location of the kilns; however, in this repo we share our code for preprocessing and training. In the ResNet and VGG code we include synthetic data to demonstrate that the code runs.
+We can not upload our actual dataset because it is confidential; however, in this repo we share our code for preprocessing and training. In the ResNet and VGG code we include synthetic data to demonstrate that the code runs.
 
 The descriptions of each file follow:
 
